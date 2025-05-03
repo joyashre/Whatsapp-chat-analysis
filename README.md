@@ -55,6 +55,9 @@ You can also use regex to parse and structure the data.
 
 Word clouds showing dominant words
 
+![wordjo](https://github.com/user-attachments/assets/28218863-e926-442f-9554-f66ba25dddd0)
+
+
 Author-wise contribution visualization
 
 Emoji usage 
