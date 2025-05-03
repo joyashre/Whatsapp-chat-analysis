@@ -1,4 +1,5 @@
 # 📱💬 WhatsApp Chat Analysis 📊🧠
+![image](https://github.com/user-attachments/assets/124266df-3487-4991-9912-2c814c3b2b60)
 
 Dive into the insights of your WhatsApp group conversations using data visualization techniques like Word Clouds. This analysis helps uncover patterns, frequent topics, and the chatting behavior of each participant—turning raw chat logs into meaningful visuals!
 
